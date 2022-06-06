@@ -1,4 +1,4 @@
- ![Language](https://img.shields.io/badge/language-python--3.7-blue) [![Contributors][contributors-shield]][contributors-url] [![Forks][forks-shield]][forks-url] [![Stargazers][stars-shield]][stars-url] [![Issues][issues-shield]][issues-url] [![MIT License][license-shield]][license-url] [![LinkedIn][linkedin-shield]][linkedin-url]
+
 
 <!-- PROJECT LOGO -->
 <br />
@@ -128,39 +128,3 @@ Follow the steps to extract and load the data into the data model.
 
 4. Check whether the data has been loaded into database by executing queries in `test.ipynb`
 
-
-
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
-
-
-<!-- CONTACT -->
-
-## Contact
-
-Vineeth S - vs96codes@gmail.com
-
-Project Link: [https://github.com/vineeths96/Data-Engineering-Nanodegree](https://github.com/vineeths96/Data-Engineering-Nanodegree)
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-
-[contributors-shield]: https://img.shields.io/github/contributors/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[contributors-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[forks-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/network/members
-[stars-shield]: https://img.shields.io/github/stars/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[stars-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/stargazers
-[issues-shield]: https://img.shields.io/github/issues/vineeths96/Data-Engineering-Nanodegree.svg?style=flat-square
-[issues-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/issues
-[license-shield]: https://img.shields.io/badge/License-MIT-yellow.svg
-[license-url]: https://github.com/vineeths96/Data-Engineering-Nanodegree/blob/master/LICENSE
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/vineeths
-[product-screenshot]: images/screenshot.jpg
